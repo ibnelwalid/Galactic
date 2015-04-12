@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#7F7F7F">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:textColor="@color/blue10"
+        android:text="Assemble and launch your Mission"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:text="Your Mission is a flyby mission where you are required to follow Jupiter trajectory, you are to select your payload, launch vehicle, launch site and launch date so that you can get enough boost from Earth's gravity (Gravity Assist) and rotating around the Sun to pull you to our solar system where your vehicle can flyby Mars and finally reach your target Jupiter"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textSize="20sp"
+        android:id="@+id/go_assemble"
+        android:textColor="@color/blue09"
+        android:text="Ready to Design My Mission!"/>
+</LinearLayout>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cairo Launch Team</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_message">Welcome Message lsa hantefe2 3aleha :D</string>
+    <string name="deep_space">Go Through Nasa Space Missions</string>
+    <string name="leo">Assemble and Launch your mission </string>
+
+    <array name="targets">
+        <item name="mercury">Mercury</item>
+        <item name="mars">Mars</item>
+        <item name="jupiter">Jupiter</item>
+        <item name="saturn">Saturn</item>
+        <item name="uranus">Uranus</item>
+        <item name="neptune">Neptune</item>
+        <item name="pluto">Pluto</item>
+    </array>
+    <array name="mercury_missions">
+        <item name="messenger">Messenger_Orbiter_PayLoadData_VehicleName_LaunchSiteName_MissionTimeLine</item>
+    </array>
+    <array name="jupiter_missions">
+        <item name="galileo">Messenger_Orbiter_PayLoadData_VehicleName_LaunchSiteName_MissionTimeLine</item>
+    </array>
+    <array name="payload_choices_accepted">
+        <item name="MAG">MAG, Magnetometer</item>
+        <item name="JEDI">JEDI, Jupiter Energetic Particle Detector Instrument </item>
+        <item name="JADE">JADE, Jovian Auroral Distributions Experiment </item>
+        <item name="UVS">UVS, Ultraviolet Imaging Spectrograph </item>
+        <item name="JIRAM">JIRAM Jovian Infrared Auroral Mapper </item>
+        <item name="MWR">MWR, six-wavelength microwave radiometer for atmospheric sounding and composition </item>
+        <item name="SDC">SDC, or Student Dust Counter, will count and measure the masses of dust particles along the spacecraft\'s entire trajectory, covering regions of interplanetary space never before sampled.</item>
+    </array>
+    <array name="payload_choices_rejected">
+        <item name="Alice">Alice, an ultraviolet imaging spectrometer that will probe the atmospheric composition and structure of Pluto</item>
+        <item name="Ralph">Ralph, a visible and infrared camera that will obtain high-resolution color maps and surface composition maps of the surfaces of Pluto and Charon</item>
+        <item name="LORRI">LORRI, or Long Range Reconnaissance Imager, will image Pluto\'s surface at football-field sized resolution, resolving features as small as approximately 50 yards across</item>
+        <item name="SWAP">SWAP, or Solar Wind Around Pluto, will measure charged particles from the solar wind near Pluto to determine whether it has a magnetosphere and how fast its atmosphere is escaping</item>
+        <item name="PEPSSI">PEPSSI, or Pluto Energetic Particle Spectrometer Science Investigation, will search for neutral atoms that escape the planet\'s atmosphere and subsequently become charged by their interaction with the solar wind</item>
+        <item name="REX">REX, or Radio Science EXperiment, a circuit board containing sophisticated electronics that has been integrated with the spacecraft\'s radio telecommunications system, will study Pluto\'s atmospheric structure, surface thermal properties, and make measurements of the mass of Pluto and Charon and KBOs</item>
+    </array>
+
+    <string name="title_activity_deep_space_targets">DeepSpaceTargets</string>
+    <string name="title_activity_deep_space_mission_setting">DeepSpaceMissionSetting</string>
+    <string name="title_activity_splash_activity">Splash_activity</string>
+    <string name="title_activity_mission_data">Mission_data</string>
+    <string name="title_activity_payload_choice">payloadChoice</string>
+    <string name="title_activity_choose_vehicle">chooseVehicle</string>
+    <string name="title_activity_mission_setting">MissionSetting</string>
+
+</resources>
